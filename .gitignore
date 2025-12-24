@@ -1,0 +1,10 @@
+# Ignore the node_modules in every folder
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore your private database credentials
+.env
+
+# Ignore build files
+frontend/build/
